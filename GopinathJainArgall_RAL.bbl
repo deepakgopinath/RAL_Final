@@ -1,0 +1,105 @@
+\begin{thebibliography}{10}
+
+\bibitem{05icorr-volosyak}
+I.~Volosyak, O.~Ivlev, and A.~Gr\"{a}ser, ``Rehabilitation robot {FRIEND II} -
+  the general concept and current implementation,'' in {\em Proceedings of the
+  International Conference on Rehabilitation Robotics (ICORR)}, 2005.
+
+\bibitem{01smc-kim}
+D.-J. Kim, R.~Hazlett-Knudsen, H.~Culver-Godfrey, G.~Rucks, T.~Cunningham,
+  D.~Portee, J.~Bricout, Z.~Wang, and A.~Behal, ``How autonomy impacts
+  performance and satisfaction: Results from a study with spinal cord injured
+  subjects using an assistive robot,'' {\em IEEE Transactions on Systems, Man
+  and Cybernetics, Part A: Systems and Humans}, vol.~42, no.~1, pp.~2--14,
+  2012.
+
+\bibitem{05jrrd-simpson}
+R.~Simpson, ``Smart wheelchairs: A literature review,'' {\em Journal of
+  Rehabilitation Research \& Development}, vol.~42, no.~4, pp.~423--438, 2005.
+
+\bibitem{NAVCHAIR}
+R.~Simpson, S.~Levine, D.~Bell, L.~Jaros, Y.~Koren, and J.~Borenstein,
+  ``Nav{C}hair: An assistive wheelchair navigation system with automatic
+  adaptation,'' in {\em Assistive Technology and Artificial Intelligence},
+  vol.~1458 of {\em Lecture Notes in Computer Science}, pp.~235--255, 1998.
+
+\bibitem{12smc-carlson}
+T.~Carlson and Y.~Demiris, ``Collaborative control for a robotic wheelchair:
+  Evaluation of performance, attention and workload,'' {\em {IEEE} Transactions
+  on Systems, Man, and Cybernetics: Part B}, vol.~42, no.~3, pp.~876--888,
+  2012.
+
+\bibitem{jain2010assistive}
+A.~Jain and C.~C. Kemp, ``{EL-E}: an assistive mobile manipulator that
+  autonomously fetches objects from flat surfaces,'' {\em Autonomous Robots},
+  vol.~28, no.~1, pp.~45--64, 2010.
+
+\bibitem{04ar-bien}
+Z.~Bien, M.-J. Chung, P.-H. Chang, D.-S. Kwon, D.-J. Kim, J.-S. Han, J.-H. Kim,
+  D.-H. Kim, H.-S. Park, S.-H. Kang, K.~Lee, and S.-C. Lim, ``Integration of a
+  rehabilitation robotic system ({KARES} {II}) with human-friendly man-machine
+  interaction units,'' {\em Autonomous Robots}, vol.~16, no.~2, pp.~165--191,
+  2004.
+
+\bibitem{05uais-driessen}
+B.~J.~F. Driessen, T.~K.~T. Kate, F.~Liefhebber, A.~H.~G. Versluis, and J.~A.
+  van. Woerden, ``Collaborative control of the manus manipulator,'' {\em
+  Universal Access in the Information Society}, vol.~4, no.~2, pp.~165--173,
+  2005.
+
+\bibitem{li2011dynamic}
+Q.~Li, W.~Chen, and J.~Wang, ``Dynamic shared control for human-wheelchair
+  cooperation,'' in {\em Proceedings of the IEEE International Conference on
+  Robotics and Automation (ICRA)}, 2011.
+
+\bibitem{dragan2012formalizing}
+A.~Dragan and S.~Srinivasa, ``Formalizing assistive teleoperation,'' in {\em
+  Proceedings of Robotics: Science and Systems}, 2012.
+
+\bibitem{javdani2015shared}
+S.~Javdani, S.~Srinivasa, and A.~Bagnell, ``Shared autonomy via hindsight
+  optimization,'' in {\em Proceedings of Robotics: Science and Systems}, 2015.
+
+\bibitem{fernandez2015towards}
+M.~Fern{\'a}ndez-Carmona, J.~M. Peula, C.~Urdiales, and F.~Sandoval, ``Towards
+  a shared control navigation function: efficiency based command modulation,''
+  in {\em International Work-Conference on Artificial Neural Networks},
+  pp.~185--198, Springer, 2015.
+
+\bibitem{lawitzky2013trajectory}
+M.~Lawitzky, M.~Kimmel, P.~Ritzer, and S.~Hirche, ``Trajectory generation under
+  the least action principle for physical human-robot cooperation,'' in {\em
+  Proceedings of the IEEE International Conference on Robotics and Automation
+  (ICRA)}, 2013.
+
+\bibitem{you2012assisted}
+E.~You and K.~Hauser, ``Assisted teleoperation strategies for aggressively
+  controlling a robot arm with 2{D} input,'' in {\em Proceedings of Robotics:
+  {S}cience and {S}ystems}, 2012.
+
+\bibitem{gulati2009framework}
+S.~Gulati, C.~Jhurani, B.~Kuipers, and R.~Longoria, ``A framework for planning
+  comfortable and customizable motion of an assistive mobile robot,'' in {\em
+  Proceedings in the IEEE/RSJ International Conference on Intelligent Robots
+  and Systems (IROS)}, 2009.
+
+\bibitem{uno1989formation}
+Y.~Uno, M.~Kawato, and R.~Suzuki, ``Formation and control of optimal trajectory
+  in human multijoint arm movement,'' {\em Biological {C}ybernetics}, vol.~61,
+  no.~2, pp.~89--101, 1989.
+
+\bibitem{flash1985coordination}
+T.~Flash and N.~Hogan, ``The coordination of arm movements: an experimentally
+  confirmed mathematical model,'' {\em The {J}ournal of Neuroscience}, vol.~5,
+  no.~7, pp.~1688--1703, 1985.
+
+\bibitem{todorov2004optimality}
+E.~Todorov, ``Optimality principles in sensorimotor control,'' {\em Nature
+  neuroscience}, vol.~7, no.~9, pp.~907--915, 2004.
+
+\bibitem{khansari2011learning}
+S.~M. Khansari-Zadeh and A.~Billard, ``Learning stable nonlinear dynamical
+  systems with gaussian mixture models,'' {\em IEEE Transactions on Robotics},
+  vol.~27, no.~5, pp.~943--957, 2011.
+
+\end{thebibliography}
