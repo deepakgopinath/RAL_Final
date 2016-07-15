@@ -1,0 +1,29 @@
+I do believe that the paper has improved a lot but still not ready. In
+my opinion they only partially followed reviewers' recommendations. 
+In Section VB the misbalance between injured/uninjured	(4//13) is
+strange. If this system is willing to support injured individuals a
+more balanced sample is required. Still, if authors balance it to
+13//13 then the sample still short as to support your claims. In the
+discussion this fact ought to be addressed in full detail.
+In Section VI, you give data but you did not discuss the size and
+misbalance of the sample. In my humble opinion 17 individuals are not
+enough to support your claims. Still, I see the value of the
+experiments as first step towards the a system that supports Shared
+Autonomy.
+
+I recommend the authors to have a look on:
+
+Jose Manuel Peula, Cristina Urdiales, Ignacio Herrero, Manuel
+Fernández-Carmona, Francisco Sandoval Hernández:
+Case-based reasoning emulation of persons for wheelchair navigation.
+Artificial Intelligence in Medicine 56(2): 109-121 (2012)
+
+Cristina Urdiales, Jose Manuel Peula, Manuel Fernández-Carmona,
+Francisco Sandoval Hernández:
+Learning-Based Adaptation for Personalized Mobility Assistance. ICCBR
+2013: 329-342
+
+Manuel Fernández-Carmona, Jose Manuel Peula, Cristina Urdiales,
+Francisco Sandoval:
+Towards a Shared Control Navigation Function: Efficiency Based Command
+Modulation. IWANN (1) 2015: 185-198
