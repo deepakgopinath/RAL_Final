@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.10.3)  14 JUL 2016 13:55
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.10.3)  18 JUL 2016 13:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -348,18 +348,18 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 (./GopinathJainArgall_RAL.aux)
 \openout1 = `GopinathJainArgall_RAL.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
 
 -- Lines per column: 58 (exact).
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
@@ -423,50 +423,50 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Font Info:    Calculating math sizes for size <11> on input line 50.
-LaTeX Font Info:    Try loading font information for U+msa on input line 50.
+LaTeX Font Info:    Calculating math sizes for size <11> on input line 52.
+LaTeX Font Info:    Try loading font information for U+msa on input line 52.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 50.
+LaTeX Font Info:    Try loading font information for U+msb on input line 52.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for U+lasy on input line 50.
+LaTeX Font Info:    Try loading font information for U+lasy on input line 52.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
-LaTeX Font Info:    Try loading font information for OT1+pcr on input line 50.
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 52.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
-Underfull \hbox (badness 1997) in paragraph at lines 50--50
+Underfull \hbox (badness 1997) in paragraph at lines 52--52
 [][][]$[]$\OT1/ptm/m/n/8 Deepak Gopinath and Brenna D. Ar-gall are with De-part
 -ment of
  []
 
 
-Overfull \hbox (1.79971pt too wide) in paragraph at lines 50--50
+Overfull \hbox (1.79971pt too wide) in paragraph at lines 52--52
 \OT1/pcr/m/n/9 deepakedakkattilgopinath2015@u.northwestern.edu| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 50--50
+Underfull \hbox (badness 10000) in paragraph at lines 52--52
 [][][]$[]$\OT1/ptm/m/n/8 Siddarth Jain and Brenna D. Ar-gall are with De-part-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 50--50
+Underfull \hbox (badness 10000) in paragraph at lines 52--52
 \OT1/ptm/m/n/8 ment of Elec-tri-cal En-gi-neer-ing, North-west-ern Uni-ver-sity
 ,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 50--50
+Underfull \hbox (badness 10000) in paragraph at lines 52--52
 \OT1/ptm/m/n/8 Evanston, IL, 60208, USA \OT1/pcr/m/n/9 sidd@u.northwestern.edu,
 
  []
@@ -476,105 +476,97 @@ Underfull \hbox (badness 10000) in paragraph at lines 50--50
 
 ]
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <7> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 157.
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 159.
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <5> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 157.
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 159.
  [2]
 Package epstopdf Info: Source file: <./finalfigures/Figure1.eps>
 (epstopdf)                    date: 2016-02-26 15:55:36
 (epstopdf)                    size: 102752 bytes
 (epstopdf)             Output file: <./finalfigures/Figure1-eps-converted-to.pd
 f>
+(epstopdf)                    date: 2016-07-14 13:55:02
+(epstopdf)                    size: 33734 bytes
 (epstopdf)             Command: <repstopdf --outfile=./finalfigures/Figure1-eps
 -converted-to.pdf ./finalfigures/Figure1.eps>
-(epstopdf)             \includegraphics on input line 208.
-runsystem(repstopdf --outfile=./finalfigures/Figure1-eps-converted-to.pdf ./fin
-alfigures/Figure1.eps)...executed safely (allowed).
-
-Package epstopdf Info: Result file: <./finalfigures/Figure1-eps-converted-to.pd
-f>
-(epstopdf)                    date: 2016-07-14 13:55:02
-(epstopdf)                    size: 33734 bytes.
+(epstopdf)             \includegraphics on input line 210.
+Package epstopdf Info: Output file is already uptodate.
 
 <./finalfigures/Figure1-eps-converted-to.pdf, id=22, 589.20125pt x 452.69125pt>
 File: ./finalfigures/Figure1-eps-converted-to.pdf Graphic file (type pdf)
 <use ./finalfigures/Figure1-eps-converted-to.pdf>
 Package pdftex.def Info: ./finalfigures/Figure1-eps-converted-to.pdf used on in
-put line 208.
+put line 210.
 (pdftex.def)             Requested size: 252.0pt x 193.61731pt.
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <8> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 239.
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 241.
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <6> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 239.
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 241.
  [3 <./finalfigures/Figure1-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <./finalfigures/Figure2.eps>
 (epstopdf)                    date: 2016-02-24 12:56:44
 (epstopdf)                    size: 68166 bytes
 (epstopdf)             Output file: <./finalfigures/Figure2-eps-converted-to.pd
 f>
+(epstopdf)                    date: 2016-07-14 13:55:02
+(epstopdf)                    size: 19416 bytes
 (epstopdf)             Command: <repstopdf --outfile=./finalfigures/Figure2-eps
 -converted-to.pdf ./finalfigures/Figure2.eps>
-(epstopdf)             \includegraphics on input line 257.
-runsystem(repstopdf --outfile=./finalfigures/Figure2-eps-converted-to.pdf ./fin
-alfigures/Figure2.eps)...executed safely (allowed).
-
-Package epstopdf Info: Result file: <./finalfigures/Figure2-eps-converted-to.pd
-f>
-(epstopdf)                    date: 2016-07-14 13:55:02
-(epstopdf)                    size: 19416 bytes.
+(epstopdf)             \includegraphics on input line 259.
+Package epstopdf Info: Output file is already uptodate.
 
 <./finalfigures/Figure2-eps-converted-to.pdf, id=37, 683.55376pt x 538.01pt>
 File: ./finalfigures/Figure2-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./finalfigures/Figure2-eps-converted-to.pdf>
 Package pdftex.def Info: ./finalfigures/Figure2-eps-converted-to.pdf used on in
-put line 257.
+put line 259.
 (pdftex.def)             Requested size: 139.3222pt x 109.65242pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 263--266
+Underfull \hbox (badness 10000) in paragraph at lines 265--268
 [][]\OT1/ptm/m/n/10 Note that $\OML/cmm/m/it/10 ^^R[]$\OT1/ptm/m/n/10 =$\OT1/cm
 r/m/n/10 0$
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 263--266
+Underfull \hbox (badness 10000) in paragraph at lines 265--268
 \OT1/ptm/m/n/10 cor-re-sponds to
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 263--266
+Underfull \hbox (badness 10000) in paragraph at lines 265--268
 \OT1/ptm/m/n/10 con-stant tele-op-er-a-tion
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 263--266
+Underfull \hbox (badness 10000) in paragraph at lines 265--268
 \OT1/ptm/m/n/10 (ir-re-spec-tive of the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 263--266
+Underfull \hbox (badness 10000) in paragraph at lines 265--268
 \OT1/ptm/m/n/10 value of $\OML/cmm/m/it/10 c\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 t
 \OT1/cmr/m/n/10 )$\OT1/ptm/m/n/10 ). The
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 263--266
+Underfull \hbox (badness 10000) in paragraph at lines 265--268
 \OT1/ptm/m/n/10 re-la-tion-ship be-tween
  []
 
 
-Underfull \hbox (badness 1735) in paragraph at lines 263--266
+Underfull \hbox (badness 1735) in paragraph at lines 265--268
 \OML/cmm/m/it/10 c\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 t\OT1/cmr/m/n/10 )$ \OT1/pt
 m/m/n/10 and $\OML/cmm/m/it/10 []$ \OT1/ptm/m/n/10 is lin-ear
  []
 
 
-Underfull \hbox (badness 4608) in paragraph at lines 263--266
+Underfull \hbox (badness 4608) in paragraph at lines 265--268
 \OT1/ptm/m/n/10 ag-gres-sively the robot
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 263--266
+Underfull \hbox (badness 10000) in paragraph at lines 265--268
 \OT1/ptm/m/n/10 as-sumes con-trol. The
  []
 
@@ -583,30 +575,26 @@ Package epstopdf Info: Source file: <./finalfigures/Figure3.eps>
 (epstopdf)                    size: 9681757 bytes
 (epstopdf)             Output file: <./finalfigures/Figure3-eps-converted-to.pd
 f>
+(epstopdf)                    date: 2016-07-14 13:55:05
+(epstopdf)                    size: 622654 bytes
 (epstopdf)             Command: <repstopdf --outfile=./finalfigures/Figure3-eps
 -converted-to.pdf ./finalfigures/Figure3.eps>
-(epstopdf)             \includegraphics on input line 335.
-runsystem(repstopdf --outfile=./finalfigures/Figure3-eps-converted-to.pdf ./fin
-alfigures/Figure3.eps)...executed safely (allowed).
-
-Package epstopdf Info: Result file: <./finalfigures/Figure3-eps-converted-to.pd
-f>
-(epstopdf)                    date: 2016-07-14 13:55:05
-(epstopdf)                    size: 622654 bytes.
+(epstopdf)             \includegraphics on input line 337.
+Package epstopdf Info: Output file is already uptodate.
 
 <./finalfigures/Figure3-eps-converted-to.pdf, id=38, 2602.72375pt x 636.3775pt>
 File: ./finalfigures/Figure3-eps-converted-to.pdf Graphic file (type pdf)
 <use ./finalfigures/Figure3-eps-converted-to.pdf>
 Package pdftex.def Info: ./finalfigures/Figure3-eps-converted-to.pdf used on in
-put line 335.
+put line 337.
 (pdftex.def)             Requested size: 516.0pt x 126.15656pt.
  [4 <./finalfigures/Figure2-eps-converted-to.pdf>]
-Underfull \hbox (badness 5119) in paragraph at lines 400--407
+Underfull \hbox (badness 5119) in paragraph at lines 402--409
 |   [] \OT1/ptm/m/n/10 The user tele-op-er-ates the
  []
 
 
-Underfull \hbox (badness 7151) in paragraph at lines 409--417
+Underfull \hbox (badness 7151) in paragraph at lines 411--419
 |   [] \OT1/ptm/m/n/10 The user tele-op-er-ates the
  []
 
@@ -615,25 +603,21 @@ Package epstopdf Info: Source file: <./finalfigures/Figure4.eps>
 (epstopdf)                    size: 391159 bytes
 (epstopdf)             Output file: <./finalfigures/Figure4-eps-converted-to.pd
 f>
+(epstopdf)                    date: 2016-07-14 13:55:06
+(epstopdf)                    size: 34551 bytes
 (epstopdf)             Command: <repstopdf --outfile=./finalfigures/Figure4-eps
 -converted-to.pdf ./finalfigures/Figure4.eps>
-(epstopdf)             \includegraphics on input line 421.
-runsystem(repstopdf --outfile=./finalfigures/Figure4-eps-converted-to.pdf ./fin
-alfigures/Figure4.eps)...executed safely (allowed).
-
-Package epstopdf Info: Result file: <./finalfigures/Figure4-eps-converted-to.pd
-f>
-(epstopdf)                    date: 2016-07-14 13:55:06
-(epstopdf)                    size: 34551 bytes.
+(epstopdf)             \includegraphics on input line 423.
+Package epstopdf Info: Output file is already uptodate.
 
 <./finalfigures/Figure4-eps-converted-to.pdf, id=49, 1382.16376pt x 684.5575pt>
 File: ./finalfigures/Figure4-eps-converted-to.pdf Graphic file (type pdf)
 <use ./finalfigures/Figure4-eps-converted-to.pdf>
 Package pdftex.def Info: ./finalfigures/Figure4-eps-converted-to.pdf used on in
-put line 421.
+put line 423.
 (pdftex.def)             Requested size: 608.87622pt x 301.56137pt.
 
-Underfull \hbox (badness 3209) in paragraph at lines 427--435
+Underfull \hbox (badness 3209) in paragraph at lines 429--437
 |   [] \OT1/ptm/m/n/10 For this ex-ploratory study 17 sub-jects were
  []
 
@@ -644,73 +628,61 @@ Package epstopdf Info: Source file: <./finalfigures/Figure5.eps>
 (epstopdf)                    size: 286198 bytes
 (epstopdf)             Output file: <./finalfigures/Figure5-eps-converted-to.pd
 f>
+(epstopdf)                    date: 2016-07-14 13:55:06
+(epstopdf)                    size: 24098 bytes
 (epstopdf)             Command: <repstopdf --outfile=./finalfigures/Figure5-eps
 -converted-to.pdf ./finalfigures/Figure5.eps>
-(epstopdf)             \includegraphics on input line 474.
-runsystem(repstopdf --outfile=./finalfigures/Figure5-eps-converted-to.pdf ./fin
-alfigures/Figure5.eps)...executed safely (allowed).
-
-Package epstopdf Info: Result file: <./finalfigures/Figure5-eps-converted-to.pd
-f>
-(epstopdf)                    date: 2016-07-14 13:55:06
-(epstopdf)                    size: 24098 bytes.
+(epstopdf)             \includegraphics on input line 476.
+Package epstopdf Info: Output file is already uptodate.
 
 <./finalfigures/Figure5-eps-converted-to.pdf, id=68, 826.08624pt x 718.685pt>
 File: ./finalfigures/Figure5-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./finalfigures/Figure5-eps-converted-to.pdf>
 Package pdftex.def Info: ./finalfigures/Figure5-eps-converted-to.pdf used on in
-put line 474.
+put line 476.
 (pdftex.def)             Requested size: 302.39923pt x 263.07999pt.
 Package epstopdf Info: Source file: <./finalfigures/Figure6.eps>
 (epstopdf)                    date: 2016-07-08 17:04:14
 (epstopdf)                    size: 63231 bytes
 (epstopdf)             Output file: <./finalfigures/Figure6-eps-converted-to.pd
 f>
+(epstopdf)                    date: 2016-07-14 13:55:06
+(epstopdf)                    size: 11493 bytes
 (epstopdf)             Command: <repstopdf --outfile=./finalfigures/Figure6-eps
 -converted-to.pdf ./finalfigures/Figure6.eps>
-(epstopdf)             \includegraphics on input line 488.
-runsystem(repstopdf --outfile=./finalfigures/Figure6-eps-converted-to.pdf ./fin
-alfigures/Figure6.eps)...executed safely (allowed).
-
-Package epstopdf Info: Result file: <./finalfigures/Figure6-eps-converted-to.pd
-f>
-(epstopdf)                    date: 2016-07-14 13:55:06
-(epstopdf)                    size: 11493 bytes.
+(epstopdf)             \includegraphics on input line 490.
+Package epstopdf Info: Output file is already uptodate.
 
 <./finalfigures/Figure6-eps-converted-to.pdf, id=69, 425.59pt x 315.1775pt>
 File: ./finalfigures/Figure6-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./finalfigures/Figure6-eps-converted-to.pdf>
 Package pdftex.def Info: ./finalfigures/Figure6-eps-converted-to.pdf used on in
-put line 488.
+put line 490.
 (pdftex.def)             Requested size: 212.79446pt x 157.58836pt.
 Package epstopdf Info: Source file: <./finalfigures/Figure7.eps>
 (epstopdf)                    date: 2016-06-07 15:09:38
 (epstopdf)                    size: 98415 bytes
 (epstopdf)             Output file: <./finalfigures/Figure7-eps-converted-to.pd
 f>
+(epstopdf)                    date: 2016-07-14 13:55:07
+(epstopdf)                    size: 12204 bytes
 (epstopdf)             Command: <repstopdf --outfile=./finalfigures/Figure7-eps
 -converted-to.pdf ./finalfigures/Figure7.eps>
-(epstopdf)             \includegraphics on input line 497.
-runsystem(repstopdf --outfile=./finalfigures/Figure7-eps-converted-to.pdf ./fin
-alfigures/Figure7.eps)...executed safely (allowed).
-
-Package epstopdf Info: Result file: <./finalfigures/Figure7-eps-converted-to.pd
-f>
-(epstopdf)                    date: 2016-07-14 13:55:07
-(epstopdf)                    size: 12204 bytes.
+(epstopdf)             \includegraphics on input line 499.
+Package epstopdf Info: Output file is already uptodate.
 
 <./finalfigures/Figure7-eps-converted-to.pdf, id=70, 429.605pt x 339.2675pt>
 File: ./finalfigures/Figure7-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./finalfigures/Figure7-eps-converted-to.pdf>
 Package pdftex.def Info: ./finalfigures/Figure7-eps-converted-to.pdf used on in
-put line 497.
+put line 499.
 (pdftex.def)             Requested size: 180.43286pt x 142.49136pt.
  [7 <./finalfigures/Figure5-eps-converted-to.pdf> <./finalfigures/Figure6-eps-c
 onverted-to.pdf>]
-Underfull \hbox (badness 3271) in paragraph at lines 510--515
+Underfull \hbox (badness 3271) in paragraph at lines 512--515
 []\OT1/ptm/m/n/10 Many thanks to Jes-sica Pres-perin Ped-er-sen, OTR/L,
  []
 
@@ -720,47 +692,42 @@ Underfull \hbox (badness 1430) in paragraph at lines 27--31
  robotic
  []
 
-)
-
-Package balance Warning: You have called \balance in second column
-(balance)                Columns might not be balanced.
-
-[8 <./finalfigures/Figure7-eps-converted-to.pdf>] (./GopinathJainArgall_RAL.aux
-) ) 
+) [8 <./finalfigures/Figure7-eps-converted-to.pdf>]
+(./GopinathJainArgall_RAL.aux) ) 
 Here is how much of TeX's memory you used:
  4860 strings out of 495028
  72545 string characters out of 6181497
- 235400 words of memory out of 5000000
+ 253733 words of memory out of 5000000
  7912 multiletter control sequences out of 15000+600000
  58723 words of font info for 133 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  38i,10n,35p,1124b,313s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb></usr/share/texlive/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts
-/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmmi5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.
-pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmmib7.p
-fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmmib8.pf
-b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr
-/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/t
-exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
-s/symbols/msam10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
-/symbols/msbm10.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucrr
-8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/sh
-are/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/te
-xmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/
-type1/urw/times/utmri8a.pfb>
-Output written on GopinathJainArgall_RAL.pdf (8 pages, 1018951 bytes).
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/
+base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx1
+0.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb><
+/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/s
+hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/t
+exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/share/texlive/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmmib10.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
+lic/amsfonts/cmextra/cmmib7.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
+ic/amsfonts/cmextra/cmmib8.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb>
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/sh
+are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/te
+xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-di
+st/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texlive/texmf-dis
+t/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/urw/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/
+urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi
+8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/sh
+are/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on GopinathJainArgall_RAL.pdf (8 pages, 1018562 bytes).
 PDF statistics:
  190 PDF objects out of 1000 (max. 8388607)
  133 compressed objects within 2 object streams
